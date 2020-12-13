@@ -1,12 +1,12 @@
 {
-  "name": "root",
+  "name": "@sadnub/vue-prism-editor",
   "description": "A dead simple code editor with syntax highlighting and line numbers.",
   "author": {
     "name": "Mesut Koca",
     "email": "imesutkoca@gmail.com"
   },
-  "version": "0.0.0",
-  "private": true,
+  "version": "1.1.2",
+  "private": false,
   "workspaces": [
     "packages/*"
   ],
